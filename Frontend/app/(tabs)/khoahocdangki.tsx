@@ -129,5 +129,6 @@ const styles = StyleSheet.create({
   },
   courseRow: {
     flexDirection: 'row',
+    justifyContent: 'center',
   },
 });
